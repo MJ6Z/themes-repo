@@ -1,4 +1,11 @@
 
+
+DO THIS FIRST:
+
+sudo apt install gtk2-engines-murrine
+sudo apt install sassc
+sudo apt install gnomes-themes-extra
+
 In a new terminal
 
 sudo apt install git
