@@ -1,0 +1,17 @@
+
+In a new terminal
+
+sudo apt install git
+https://github.com/Adapta-Projects/Papirus-Nord
+cd Papirus-Nord
+./install
+
+./papirus-folders -l
+
+This lists the available colours, then do 
+
+./papirus-folders -C {your choice, im using pink}
+./papirus-folders -C pink
+
+Then go into themes and select EPapirus-Dark
+
